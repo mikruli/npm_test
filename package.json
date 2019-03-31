@@ -1,0 +1,28 @@
+{
+  "name": "08_vezbe",
+  "version": "1.0.0",
+  "description": "Ovo je sablon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikruli/npm_test.git"
+  },
+  "keywords": [
+    "sablon",
+    "bootstrap"
+  ],
+  "author": "Dejan Kumric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikruli/npm_test/issues"
+  },
+  "homepage": "https://github.com/mikruli/npm_test#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
